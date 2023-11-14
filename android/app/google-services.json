@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "677919521109",
+    "firebase_url": "https://tinder-kiselev-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "tinder-kiselev",
+    "storage_bucket": "tinder-kiselev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677919521109:android:9cddb93937529c33f217dc",
+        "android_client_info": {
+          "package_name": "com.example.tinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrlxidUdt8foUYrG79lX6SPt3rnjJTi1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
